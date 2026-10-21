@@ -15,8 +15,7 @@ A responsive, feature-rich website project dedicated to exploring the rich cultu
 
 ## 📄 Project Documentation
 
-You can view or download the complete project report paper below:
-- [Project Paper Documentation (PDF)](./Group_9_Website_Tanah_Toraja__compressed.pdf)
+[Tanah-Toraja-Tourism-Website-Paper(PDF)](./Tanah-Toraja-Tourism-Website-Paper.pdf)
 
 ---
 
